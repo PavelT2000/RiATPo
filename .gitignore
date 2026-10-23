@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.zip
+~$*
+# duplicates of files kept in tasks/
+/Лабораторная работа 1.docx
+/Вариант_3_требования.docx
+/Буйко 451001 Вариант 3..docx
+/ЛР 3 Вариант 3 Гр 451001 Буйко Д.В..docx
+.~lock.*#
